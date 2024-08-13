@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wamikam
-- 👀 I’m interested in data science and I have done MSc in Maths from Indian Institute of Technology Chennai, India
+- 👀 I’m experienced data analyst and I have done dual Masters in Maths in India and in Data science from the UK
 - 📫 How to reach me : wamika.marathe@gmail.com
 
 <!---

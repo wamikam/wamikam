@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wamikam
+- 👋 Hi, I’m wamika
 - 👀 I’m experienced data analyst and I have done dual Masters in Maths in India and in Data science from the UK
 - 📫 How to reach me : wamika.marathe@gmail.com
 
